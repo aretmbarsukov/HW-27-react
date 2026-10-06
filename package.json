@@ -2,7 +2,7 @@
   "name": "kino-search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aretmbarsukov.github.io/HW-26-react/",
+  "homepage": "https://aretmbarsukov.github.io/HW-27-react/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",

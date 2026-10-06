@@ -36,9 +36,9 @@ npm run build
 
 ## GitHub Pages
 
-Збірка налаштована для [HW-26-react](https://github.com/aretmbarsukov/HW-26-react).
+Збірка налаштована для [HW-27-react](https://github.com/aretmbarsukov/HW-27-react).
 Щоб TMDB API-запити працювали на сайті, додай ключ як GitHub Actions secret
 `REACT_APP_TMDB_API_KEY` у налаштуваннях репозиторію. Workflow передає його у
 збірку; значення не зберігається у файлах проєкту.
 
-Сайт: <https://aretmbarsukov.github.io/HW-26-react/>.
+Сайт: <https://aretmbarsukov.github.io/HW-27-react/>.
